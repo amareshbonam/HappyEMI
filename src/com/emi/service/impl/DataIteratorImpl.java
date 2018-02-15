@@ -97,7 +97,7 @@ public class DataIteratorImpl implements DataIterator{
 	@Override
 	public void displayElements(@SuppressWarnings("rawtypes") List list) {
 		for(Object object: list) {
-			System.out.print(object.toString());
+			System.out.print(object.toString().concat(", "));
 		}
 	}
 	

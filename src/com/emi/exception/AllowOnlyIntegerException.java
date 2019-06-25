@@ -16,6 +16,7 @@ public class AllowOnlyIntegerException extends Exception{
 	
 	public void temp() {
 		//just dummy method
+		// this for AR-1
 	}
 	
 	

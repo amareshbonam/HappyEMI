@@ -1,5 +1,9 @@
 package com.emi.exception;
 
+
+/** 
+	@author : amaresh
+*/
 public class AllowOnlyIntegerException extends Exception{
 	
 	private static final long serialVersionUID = 1L;
@@ -10,6 +14,6 @@ public class AllowOnlyIntegerException extends Exception{
 	}
 	
 	public void temp() {
-		
+		//
 	}
 }

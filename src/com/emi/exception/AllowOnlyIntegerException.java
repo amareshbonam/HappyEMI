@@ -8,4 +8,8 @@ public class AllowOnlyIntegerException extends Exception{
 	public String getMessage() {
 		return "Only Integer Values Allowed";
 	}
+	
+	public void temp() {
+		
+	}
 }

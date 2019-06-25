@@ -2,7 +2,8 @@ package com.emi.exception;
 
 
 /** 
-	@author : amaresh
+	@author : amaresh bonam
+	
 */
 public class AllowOnlyIntegerException extends Exception{
 	
